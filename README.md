@@ -37,11 +37,22 @@ Then, calling this code to save your dependencies:
 
 >> pip freeze > requirements.txt
 
-It will generate a text file in the repository file. If you only have the standard library it will be empty, after you install some packages those package will showing in this text file.
+It will generate a text file in the repository file. If you only have the standard library it will be empty, after you install some packages those package will showing in this text file. You could see the different in those pictures:
+
+Standard lib:
+![unman](https://user-images.githubusercontent.com/54834260/97098225-a90ac600-1637-11eb-95a1-323f10ebf04a.png)
+
+
+After installing the lib:
+![man](https://user-images.githubusercontent.com/54834260/97098239-e3746300-1637-11eb-9534-5aae3d33e476.png)
+
 
 Now you can run the code by(code.py is an example you could change it):
 
 >> py code.py
+
+This is the picture to run the code:
+![task3](https://user-images.githubusercontent.com/54834260/97098216-87a9da00-1637-11eb-957c-51f9505ad617.png)
 
 
 ## Step Four(Optional for user not push the file to Github):
