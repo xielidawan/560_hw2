@@ -39,7 +39,7 @@ Then, calling this code to save your dependencies:
 
 It will generate a text file in the repository file. If you only have the standard library it will be empty, after you install some packages those package will showing in this text file.
 
-Now you can run the code by:
+Now you can run the code by(code.py is an example you could change it):
 
 >> py code.py
 
